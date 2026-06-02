@@ -1,11 +1,12 @@
 package com.tnsif.app;
 public class PublicDemo {
 	public int a=9;  // data member 
-    private String b="kusuma";
+	
+    private String b="Mamatha";
     
-    char w='i';
+    public char w='i';
     
-    protected int s=7;
+    public int s=7;
     
     public void display() {// function or method or member function
             System.out.println("welcome");
